@@ -1,6 +1,6 @@
-package patterns.strategy.with;
+package patterns.strategypattern.with;
 
-import patterns.strategy.with.strategy.IDriveStrategy;
+import patterns.strategypattern.with.strategy.IDriveStrategy;
 
  public class Vehicle {
     private final IDriveStrategy driveStrategy;

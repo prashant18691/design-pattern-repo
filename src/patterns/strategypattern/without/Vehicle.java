@@ -1,4 +1,4 @@
-package patterns.strategy.without;
+package patterns.strategypattern.without;
 
  class Vehicle {
 

@@ -1,11 +1,11 @@
-package patterns.strategy;
+package patterns.strategypattern;
 
-import patterns.strategy.with.GoodsVehicle;
-import patterns.strategy.with.OffroadVehicle;
-import patterns.strategy.with.SportsVehicle;
-import patterns.strategy.with.Vehicle;
+import patterns.strategypattern.with.GoodsVehicle;
+import patterns.strategypattern.with.OffroadVehicle;
+import patterns.strategypattern.with.SportsVehicle;
+import patterns.strategypattern.with.Vehicle;
 
-public class Main {
+ class Main {
     public static void main(String[] args) {
         Vehicle sportsVehicle = new SportsVehicle();
         sportsVehicle.drive();

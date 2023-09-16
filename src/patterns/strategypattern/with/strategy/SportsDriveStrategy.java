@@ -1,4 +1,4 @@
-package patterns.strategy.with.strategy;
+package patterns.strategypattern.with.strategy;
 
 public class SportsDriveStrategy implements IDriveStrategy{
     @Override

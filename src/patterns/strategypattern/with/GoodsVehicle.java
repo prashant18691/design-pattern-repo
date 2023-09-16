@@ -1,6 +1,6 @@
-package patterns.strategy.with;
+package patterns.strategypattern.with;
 
-import patterns.strategy.with.strategy.NormalDriveStrategy;
+import patterns.strategypattern.with.strategy.NormalDriveStrategy;
 
  public class GoodsVehicle extends Vehicle{
     public GoodsVehicle() {
